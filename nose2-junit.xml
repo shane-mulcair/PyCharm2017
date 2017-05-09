@@ -1,0 +1,5 @@
+<testsuite errors="0" failures="0" name="nose2-junit" skipped="0" tests="1" time="0.000">
+  <testcase classname="test1.TestStringMethods" name="test_upper" time="0.000000">
+    <system-err />
+  </testcase>
+</testsuite>
